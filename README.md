@@ -27,8 +27,23 @@ Music in the terminal. Chess on the board. A few flowers in the browser.</p>
 
 ### Useful things, too
 
-- **[Contractor Search](https://github.com/trashpenguin/contractor-search)** — multi-source contractor discovery and enrichment, built with Python.
-- **[Answer Sheet Generator](https://github.com/trashpenguin/answer-sheet-generator)** — customizable, printable answer sheets for Philippine schools, all in one HTML file.
+<details>
+<summary><strong>Contractor Search</strong> · Python · discovery &amp; enrichment</summary>
+
+Multi-source contractor discovery and enrichment for HVAC, electrical, and excavating businesses across the USA.
+
+[Explore Contractor Search](https://github.com/trashpenguin/contractor-search)
+
+</details>
+
+<details>
+<summary><strong>Answer Sheet Generator</strong> · HTML · tools for schools</summary>
+
+Customizable, printable exam answer sheets for Philippine schools, with sections, half-page printing, and logos—all in one HTML file.
+
+[Explore Answer Sheet Generator](https://github.com/trashpenguin/answer-sheet-generator)
+
+</details>
 
 ### In the inventory
 
@@ -40,6 +55,16 @@ Music in the terminal. Chess on the board. A few flowers in the browser.</p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-f4a0a0?style=flat-square&amp;logo=html5&amp;logoColor=182033" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-9ce2ce?style=flat-square&amp;logo=css&amp;logoColor=182033" />
 </p>
+
+### A little progress, every day
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trashpenguin/trashpenguin/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trashpenguin/trashpenguin/output/snake.svg" />
+  <img alt="An animated snake tracing my GitHub contribution graph" src="https://raw.githubusercontent.com/trashpenguin/trashpenguin/output/snake.svg" width="100%" />
+</picture>
+
+<sub>My contribution graph, with a twist. Refreshed daily.</sub>
 
 <details>
 <summary>Inspect the penguin</summary>
