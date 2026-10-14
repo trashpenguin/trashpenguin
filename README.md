@@ -1,24 +1,61 @@
-<h1>trashpenguin</h1>
+<p align="center">
+  <img src="assets/penguin-banner.svg" alt="trashpenguin — small projects, big side-quest energy. A sleepy penguin beneath a midnight sky." width="100%" />
+</p>
 
-**Building practical tools and thoughtful software experiences.**
+<h1 align="center">hey, i'm trashpenguin 🐧</h1>
+<p align="center"><b>Turning “what if?” into “okay, that actually works.”</b><br />
+Music in the terminal. Chess on the board. A few flowers in the browser.</p>
 
-My projects span terminal applications, web interfaces, automation, and game development. I work with Rust, Python, JavaScript, and C, with an interest in making everyday tools more useful and approachable.
-
-[Explore repositories](https://github.com/trashpenguin?tab=repositories)
+<p align="center">
+  <a href="https://github.com/trashpenguin?tab=repositories">Explore my projects</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/trashpenguin/pomme-tui">Meet pomme</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/trashpenguin/IHaveSomethingForYou">Something for you</a>
+</p>
 
 ---
 
-### Selected projects
+### Pick a side quest
 
-| Project | Description | Technology |
-| :--- | :--- | :--- |
-| **[pomme-tui](https://github.com/trashpenguin/pomme-tui)** | Apple Music for the Windows terminal, with native playback, synced lyrics, and artwork. | Rust |
-| **[Contractor Search](https://github.com/trashpenguin/contractor-search)** | Multi-source contractor discovery and data enrichment. | Python |
-| **[Chess Engine](https://github.com/trashpenguin/Chess-Engine)** | A chess engine project with a 2D board. | C |
-| **[Answer Sheet Generator](https://github.com/trashpenguin/answer-sheet-generator)** | Customizable, printable exam answer sheets for Philippine schools in a single HTML file. | HTML |
-| **[seanime-extensions](https://github.com/trashpenguin/seanime-extensions)** | Custom manga provider integrations for Seanime. | JavaScript |
-| **[I Have Something For You](https://github.com/trashpenguin/IHaveSomethingForYou)** | An animated flower webpage exploring motion and visual design. | HTML, CSS, JavaScript |
+| Quest | What's inside |
+| :--- | :--- |
+| **[pomme-tui](https://github.com/trashpenguin/pomme-tui)** | Apple Music in your Windows terminal, with synced lyrics, artwork, and native playback. **Rust** |
+| **[Chess Engine](https://github.com/trashpenguin/Chess-Engine)** | A chess engine project built around C/C++ and a 2D board. **C** |
+| **[I Have Something For You](https://github.com/trashpenguin/IHaveSomethingForYou)** | Animated flowers for when a plain text message won't do. **HTML · CSS · JavaScript** |
+| **[seanime-extensions](https://github.com/trashpenguin/seanime-extensions)** | Custom manga providers for Seanime. One more chapter? **JavaScript** |
 
-### Technologies
+### Useful things, too
 
-`Rust` · `Python` · `JavaScript` · `C` · `HTML` · `CSS`
+- **[Contractor Search](https://github.com/trashpenguin/contractor-search)** — multi-source contractor discovery and enrichment, built with Python.
+- **[Answer Sheet Generator](https://github.com/trashpenguin/answer-sheet-generator)** — customizable, printable answer sheets for Philippine schools, all in one HTML file.
+
+### In the inventory
+
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-f0a782?style=flat-square&amp;logo=rust&amp;logoColor=182033" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-91c9ff?style=flat-square&amp;logo=python&amp;logoColor=182033" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f4d675?style=flat-square&amp;logo=javascript&amp;logoColor=182033" />
+  <img alt="C" src="https://img.shields.io/badge/C-b6b6f2?style=flat-square&amp;logo=c&amp;logoColor=182033" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-f4a0a0?style=flat-square&amp;logo=html5&amp;logoColor=182033" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-9ce2ce?style=flat-square&amp;logo=css&amp;logoColor=182033" />
+</p>
+
+<details>
+<summary>Inspect the penguin</summary>
+
+```text
+      .--.
+     |o_o |     species: side-quest collector
+     |:_/ |     habitat: somewhere between a terminal and a browser
+    //   \ \    loot:    music, chess, manga, and tiny useful tools
+   (|     | )   status:  probably thinking of another project
+  /'\_   _/`\
+  \___)=(___/
+```
+
+</details>
+
+---
+
+<p align="center"><sub>Thanks for stopping by. Please don't feed the bugs.</sub></p>
