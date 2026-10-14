@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">trashpenguin — small projects, big side-quest energy</title>
+  <desc id="desc">A midnight blue sky with pastel stars, a sleepy illustrated penguin, and a terminal window.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1"><stop stop-color="#10192e"/><stop offset="1" stop-color="#282440"/></linearGradient>
+    <linearGradient id="ice" x2="1"><stop stop-color="#8ee3d0"/><stop offset="1" stop-color="#aaa4ef"/></linearGradient>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#sky)"/>
+  <g fill="#b9c7e8" opacity=".65">
+    <circle cx="50" cy="60" r="2"/><circle cx="360" cy="42" r="2"/><circle cx="690" cy="65" r="3"/><circle cx="1125" cy="72" r="2"/><circle cx="1090" cy="230" r="2"/><circle cx="730" cy="300" r="2"/><circle cx="455" cy="325" r="2"/>
+    <path d="M790 107h12m-6-6v12M1050 140h14m-7-7v14M590 40h10m-5-5v10" stroke="#b9c7e8" stroke-width="2"/>
+  </g>
+  <circle cx="1070" cy="59" r="23" fill="#f4d675"/>
+  <circle cx="1081" cy="50" r="23" fill="#24233d"/>
+  <rect x="55" y="58" width="278" height="29" rx="14" fill="#273c46"/>
+  <circle cx="74" cy="72" r="4" fill="#9ce2ce"/>
+  <text x="89" y="77" fill="#9ce2ce" font-family="monospace" font-size="13" letter-spacing="2">WELCOME TO THE ICEBERG</text>
+  <text x="52" y="167" fill="#f4f4fa" font-family="Verdana, sans-serif" font-size="66" font-weight="bold" letter-spacing="-3">trashpenguin</text>
+  <text x="56" y="212" fill="#b9c7e8" font-family="Verdana, sans-serif" font-size="22">small projects. big side-quest energy.</text>
+  <rect x="56" y="249" width="526" height="67" rx="10" fill="#0c1324" stroke="#39445d"/>
+  <text x="77" y="277" fill="#9ce2ce" font-family="monospace" font-size="16">$ penguin --mode curious</text>
+  <text x="77" y="301" fill="#b9c7e8" font-family="monospace" font-size="14">loading music, chess &amp; a few good ideas...</text>
+  <ellipse cx="925" cy="326" rx="132" ry="18" fill="#0d1426"/>
+  <path d="M787 313l42-17 180 1 53 17-39 30H826Z" fill="url(#ice)"/>
+  <g>
+    <ellipse cx="924" cy="230" rx="77" ry="88" fill="#101727"/>
+    <ellipse cx="856" cy="244" rx="17" ry="47" transform="rotate(23 856 244)" fill="#101727"/>
+    <ellipse cx="992" cy="244" rx="17" ry="47" transform="rotate(-23 992 244)" fill="#101727"/>
+    <ellipse cx="924" cy="252" rx="56" ry="64" fill="#ecedf5"/>
+    <ellipse cx="899" cy="204" rx="26" ry="30" fill="#ecedf5"/>
+    <ellipse cx="949" cy="204" rx="26" ry="30" fill="#ecedf5"/>
+    <path d="M886 205q11 10 22 0m30 0q11 10 22 0" fill="none" stroke="#25304a" stroke-width="4" stroke-linecap="round"/>
+    <path d="M913 219h22l-11 13Z" fill="#f4ba75"/>
+    <ellipse cx="882" cy="222" rx="10" ry="5" fill="#eea9b8" opacity=".6"/>
+    <ellipse cx="966" cy="222" rx="10" ry="5" fill="#eea9b8" opacity=".6"/>
+    <ellipse cx="895" cy="314" rx="23" ry="10" fill="#f4ba75"/>
+    <ellipse cx="953" cy="314" rx="23" ry="10" fill="#f4ba75"/>
+    <path d="M875 159q45-66 95 0Z" fill="#aaa4ef"/>
+    <rect x="872" y="151" width="101" height="17" rx="8" fill="#c6bff7"/>
+    <circle cx="922" cy="118" r="12" fill="#c6bff7"/>
+  </g>
+  <text x="1012" y="171" fill="#aaa4ef" font-family="monospace" font-size="22" transform="rotate(12 1012 171)">z z Z</text>
+</svg>
