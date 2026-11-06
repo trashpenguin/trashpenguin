@@ -11,7 +11,7 @@ Music in the terminal. Chess on the board. A few flowers in the browser.</p>
   &nbsp;·&nbsp;
   <a href="https://github.com/trashpenguin/pomme-tui">Meet pomme</a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/trashpenguin/IHaveSomethingForYou">Something for you</a>
+  <a href="https://github.com/trashpenguin/lime-tui">Meet lime</a>
 </p>
 
 ---
@@ -20,12 +20,22 @@ Music in the terminal. Chess on the board. A few flowers in the browser.</p>
 
 | Quest | What's inside |
 | :--- | :--- |
-| **[pomme-tui](https://github.com/trashpenguin/pomme-tui)** | Apple Music in your Windows terminal, with synced lyrics, artwork, and native playback. **Rust** |
-| **[Chess Engine](https://github.com/trashpenguin/Chess-Engine)** | A chess engine project built around C/C++ and a 2D board. **C** |
+| **[pomme-tui](https://github.com/trashpenguin/pomme-tui)** | Apple Music in your Windows terminal: native playback, synced lyrics, library browsing, and visualizers. **Go · Rust** |
+| **[lime-tui](https://github.com/trashpenguin/lime-tui)** | A Spotify terminal player for Windows, with playlists, a queue, timed lyrics, and live visualizers. **Go · Rust · Preview** |
+| **[Chess Engine](https://github.com/trashpenguin/Chess-Engine)** | A UCI chess engine with legal move generation, alpha-beta search, and positional evaluation. **C** |
 | **[I Have Something For You](https://github.com/trashpenguin/IHaveSomethingForYou)** | Animated flowers for when a plain text message won't do. **HTML · CSS · JavaScript** |
 | **[seanime-extensions](https://github.com/trashpenguin/seanime-extensions)** | Custom manga providers for Seanime. One more chapter? **JavaScript** |
 
 ### Useful things, too
+
+<details>
+<summary><strong>Orbit HUB</strong> · JavaScript · browser hardware experiments</summary>
+
+A browser prototype for local mouse profiles, DPI control, and limited Logitech RGB lighting through WebHID. Hardware support is experimental and device-specific.
+
+[Explore Orbit HUB](https://github.com/trashpenguin/orbit-hub) · [Try the public test](https://trashpenguin.github.io/orbit-hub/)
+
+</details>
 
 <details>
 <summary><strong>Contractor Search</strong> · Python · discovery &amp; enrichment</summary>
@@ -48,6 +58,7 @@ Customizable, printable exam answer sheets for Philippine schools, with sections
 ### In the inventory
 
 <p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-8edce6?style=flat-square&amp;logo=go&amp;logoColor=182033" />
   <img alt="Rust" src="https://img.shields.io/badge/Rust-f0a782?style=flat-square&amp;logo=rust&amp;logoColor=182033" />
   <img alt="Python" src="https://img.shields.io/badge/Python-91c9ff?style=flat-square&amp;logo=python&amp;logoColor=182033" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f4d675?style=flat-square&amp;logo=javascript&amp;logoColor=182033" />
@@ -73,7 +84,7 @@ Customizable, printable exam answer sheets for Philippine schools, with sections
       .--.
      |o_o |     species: side-quest collector
      |:_/ |     habitat: somewhere between a terminal and a browser
-    //   \ \    loot:    music, chess, manga, and tiny useful tools
+    //   \ \    loot:    music, chess, manga, and hardware experiments
    (|     | )   status:  probably thinking of another project
   /'\_   _/`\
   \___)=(___/
